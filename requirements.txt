@@ -2,5 +2,3 @@ streamlit==1.33.0
 groq==0.3.0
 google-generativeai==0.3.2
 python-dotenv==1.0.1
-hashlib==20081119  # Usually included in Python
-re==2.2.1  # Usually included in Python
